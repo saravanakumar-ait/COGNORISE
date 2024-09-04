@@ -47,5 +47,5 @@ def calculator():
     else:
         print("Invalid operation choice. Please enter a number between 1 and 4.")
 
-if name == "main":
+if __name__ == "__main__":
     calculator()
