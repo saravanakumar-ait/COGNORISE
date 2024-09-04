@@ -33,5 +33,5 @@ def main():
     if password:
         print(f"Generated Password: {password}")
 
-if __name__ == "main":
+if __name__ == "__main__":
     main()
